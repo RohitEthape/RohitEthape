@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitethape&label=Profile%20views&color=0e75b6&style=flat" alt="rohitethape" /> </p>
 
 - 🔭 I’m currently Searching a job
-- </br>
 - [Hotel Booking](https://github.com/RohitEthape/HotelBooking.git)
 
 - 🌱 I’m currently learning **Python, javascript, kotlin.**
