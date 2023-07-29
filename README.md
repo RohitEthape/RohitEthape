@@ -1,5 +1,6 @@
 <h1 align="center">Hi , I'm Rohit Ethape</h1>
 <h3 align="center">A passionate java developer from India, Mumbai.</h3>
+< img align = "right" alt="Coding" width="300" src="![image](https://github.com/RohitEthape/RohitEthape/assets/139629108/eeb75fe7-26ce-48ed-9f98-4a42a71171ee)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitethape&label=Profile%20views&color=0e75b6&style=flat" alt="rohitethape" /> </p>
 
