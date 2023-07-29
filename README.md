@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ethaperohit441@gmail.com**
 
-- 📄 Know about my experiences [Rohit cv.docx](Rohit cv.docx)
+- 📄 Know about my experiences https://docs.google.com/document/d/1B3ImrnPUKATZV_Y53mynZ_kjGMAyKBIA/edit?usp=drivesdk&ouid=112389790461855432237&rtpof=true&sd=true
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
