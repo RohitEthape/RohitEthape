@@ -12,7 +12,7 @@
 ## 💼 About Me
 
 - 🔭 Currently working as **Software Development Engineer (SDE)** at **M2P Fintech**
-- 🌱 Expanding my skills in **Python**, **JavaScript**, and **Kotlin**
+- 🌱 Expanding my skills in **Java**, **JavaScript**, and **Devops**
 - 📫 Reach me at: **ethaperohit441@gmail.com**
 - 📞 Contact: **+91-9096059641**
 - 🌍 Location: Mumbai, India
