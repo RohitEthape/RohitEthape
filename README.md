@@ -17,7 +17,7 @@
 - 📞 Contact: **+91-9096059641**
 - 🌍 Location: Mumbai, India
 - 📄 View My Resume:  
-  **[Rohit Ethape – Resume](https://docs.google.com/document/d/1B3ImrnPUKATZV_Y53mynZ_kjGMAyKBIA/edit?usp=drivesdk)**
+  **[Rohit Ethape – Resume](https://www.overleaf.com/project/67ffe80dec7dc5cbee1b3d59)**
 
 ---
 
