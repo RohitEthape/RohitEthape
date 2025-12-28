@@ -11,11 +11,11 @@
 
 ## 💼 About Me
 
-- 🔭 Currently working as **Software Development Engineer (SDE)** at **M2P Fintech**
-- 🌱 Expanding my skills in **Java**, **JavaScript**, and **Devops**
-- 📫 Reach me at: **ethaperohit441@gmail.com**
-- 📞 Contact: **+91-9096059641**
-- 🌍 Location: Mumbai, India
+- 🔭 Currently working as **Software Development Engineer (SDE)** at **M2P Fintech**  
+- 🌱 Expanding expertise in **Java**, **Spring Boot**, **Microservices**, **DevOps**, and **Cloud** technologies  
+- 📫 Reach me at: **ethaperohit441@gmail.com**  
+- 📞 Contact: **+91-9096059641**  
+- 🌍 Location: Mumbai, India  
 - 📄 View My Resume:  
   **[Rohit Ethape – Resume](https://www.overleaf.com/project/67ffe80dec7dc5cbee1b3d59)**
 
@@ -24,21 +24,22 @@
 ## 🧠 Technical Skills
 
 ### 🔹 Languages
-- Core Java, JavaScript, HTML/CSS, OOPs, REST, Microservices, SOAP  
-- Design Patterns
+- Java 8/17, JavaScript, HTML/CSS, OOP, REST, SOAP  
+- Multithreading, Collections, Design Patterns  
 
-### 🔹 Libraries / Frameworks
-- Spring, Spring Boot, Hibernate, JDBC  
-- Spring Data JPA, Spring Security  
-- Play Framework
+### 🔹 Frameworks / Libraries
+- Spring, Spring Boot, Spring Security (JWT, BCrypt), Hibernate, JDBC  
+- Spring Data JPA, Play Framework  
 
-### 🔹 Developer Tools / Platforms
-- VS Code, IntelliJ IDEA, Jenkins, Argo CD  
-- Docker, Kubernetes (K8s), Git, GitHub, Flyway  
-- AWS, GCP, Grafana, APM
+### 🔹 DevOps & Cloud
+- Docker, Kubernetes (K8s), Jenkins, Git, GitHub, Argo CD, Flyway  
+- AWS, GCP, Terraform, Ansible, CI/CD Pipelines  
 
 ### 🔹 Databases
-- MSSQL, MySQL, Oracle, Redis
+- MSSQL, MySQL, Oracle, Redis, MongoDB  
+
+### 🔹 Tools & Testing
+- IntelliJ IDEA, VS Code, Postman, JUnit 5, Mockito, Grafana, Prometheus, APM  
 
 ---
 
@@ -48,43 +49,42 @@
 📍 *Mumbai, Maharashtra*  
 📅 *Dec 2023 – Present*
 
-- Improved core banking system performance and optimized large-scale transactional processes.  
-- Architected end-to-end CI/CD pipelines using **Argo CD**, **Docker**, **Kubernetes**, and **GCP**.  
-- Integrated **FRMS (Fraud Risk Management System)** for fraud detection and risk scoring.  
-- Implemented caching using **Redis**, and built backend services using **Spring Framework + MSSQL**.  
-- Integrated **Node Exporter** for system metric monitoring.  
-- Optimized stored procedures to reduce execution times by **37.4%**, boosting DB performance by **67.8%**.  
-- Provided on-call support, diagnosing & resolving critical CBS issues in real time.  
-- Conducted unit testing (JUnit), API testing (Postman), and performance testing (JMeter).  
-- Implemented **Circuit Breaker pattern** across microservices for resilience.  
-- Developed batch-wise transaction processing for large-scale bulk file handling.
+- Engineered core components of the **Turing Core Banking System (CBS)** for 75+ banks, delivering scalable payment services.  
+- Optimized fault-tolerant payment processing handling $50M+ annual volume, ensuring near-zero data loss during peak settlement periods.  
+- Designed and implemented **Redis-based caching** reducing P95 latency by 40% (250ms → 150ms) with metrics monitored via Grafana and Prometheus.  
+- Developed **Fraud Risk Management System (FRMS)** enabling pre-transaction risk scoring and fraud detection.  
+- Automated **Cheque Truncation System (CTS)** for bulk/excel uploads, supporting same-day inward/outward clearing.  
+- Built high-performance **Spring Boot microservices**, optimizing database queries, transaction management, and resilience patterns (Circuit Breaker).  
+- Enforced distributed data consistency using `@Transactional` with custom propagation and isolation strategies.  
+- Provided on-call production support, debugging CBS issues in real time.  
 
 ---
 
 ## 🛠️ Projects
 
-### **CBS – Core Banking Solution (M2P Fintech)**  
+### **Core Banking Solution (CBS) — M2P Fintech**  
 📅 *Dec 2023 – Present*
 
-- Developed **CTS (Cheque Truncation System)** for bulk/excel cheque clearing (inward/outward).  
-- Optimized **UPI transaction module**, improving payment processing reliability.  
-- Contributed to **Loan Management System**, improving loan workflows and system integration.  
-- Automated **CASA account closure**, improving accuracy in transaction handling.  
-- Built **dynamic module pages** with configurable policies on backend + UI.  
-- Resolved multiple production bugs, improving system stability and performance.
+- Engineered **ISO 8583 transaction flows** for ATM/POS/UPI channels, including message parsing, bitmap extraction, DE field mapping, and authorization.  
+- Designed **FRMS barrier** for high-risk transaction mitigation with velocity checks and rule-based scoring.  
+- Optimized **UPI transaction modules** to prevent race conditions using optimistic locking and balance versioning.  
+- Contributed to **Loan Management System** and **CASA account workflows**, improving system integration and transaction accuracy.  
+- Developed **dynamic module pages** with configurable backend policies.  
+- Resolved production bugs, improving system stability and performance.  
 
 ---
 
 ## 🎓 Education
 
 **Master of Computer Applications (MCA)**  
-Eklavya University, Damoh, Madhya Pradesh  
-📅 2023
+Eklavya University, Damoh, Madhya Pradesh — 2023  
 
 ---
 
 ## 🏅 Certifications
-- **Java Programming Fundamentals — IBM (2023)**
+- **Java Programming Fundamentals — IBM (2023)**  
+- **Fundamentals of Java Programming — Coursera**  
+- **Introduction to Cloud Computing — IBM**
 
 ---
 
@@ -122,4 +122,3 @@ Eklavya University, Damoh, Madhya Pradesh
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitethape&show_icons=true&locale=en" />
 </p>
-
