@@ -55,7 +55,8 @@
 - Developed **Fraud Risk Management System (FRMS)** enabling pre-transaction risk scoring and fraud detection.  
 - Automated **Cheque Truncation System (CTS)** for bulk/excel uploads, supporting same-day inward/outward clearing.  
 - Built high-performance **Spring Boot microservices**, optimizing database queries, transaction management, and resilience patterns (Circuit Breaker).  
-- Enforced distributed data consistency using `@Transactional` with custom propagation and isolation strategies.  
+- Maintained and optimized a fault-tolerant payment processing service handling $50M+ annual transaction volume,
+ensuring high availability and transactional consistency aligned with ACID guarantees.  
 - Provided on-call production support, debugging CBS issues in real time.  
 
 ---
