@@ -13,7 +13,7 @@
 
 - 🔭 Currently working as **Software Development Engineer (SDE)** at **M2P Fintech**  
 - 🌱 Expanding expertise in **Java**, **Spring Boot**, **Microservices**, **DevOps**, and **Cloud** technologies  
-- 📫 Reach me at: **ethaperohit441@gmail.com**  
+- 📫 Reach me at: **rohith.ethape@gmail.com**  
 - 📞 Contact: **+91-9096059641**  
 - 🌍 Location: Mumbai, India  
 - 📄 View My Resume:  
